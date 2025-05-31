@@ -1,0 +1,21 @@
+# Ignore build output directories and files
+/build/
+/bin/
+/obj/
+/out/
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
